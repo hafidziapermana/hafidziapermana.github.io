@@ -1,0 +1,11 @@
+.fix {
+  object-fit: cover;
+  width: 90px;
+  height: 90px;
+  border: solid 5px white;
+  border-radius: 5px;
+}
+
+.wrapper {
+  display: flex;
+}
